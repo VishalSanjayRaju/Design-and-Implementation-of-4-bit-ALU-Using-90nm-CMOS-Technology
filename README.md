@@ -80,6 +80,10 @@ Schematic of the 4-bit ALU
 
 <img width="943" height="479" alt="image" src="https://github.com/user-attachments/assets/3af6fb46-7f69-45b1-bc43-ff959e11e78e" />
 
+FULL LAYOUT
+
+<img width="653" height="727" alt="custom_layout" src="https://github.com/user-attachments/assets/ba56d229-6221-4df3-bd20-6938e9666f74" />
+
  layout of the 4-bit ALU
 
 The above images show the schematic diagram and layout design of a 4-bit Arithmetic Logic Unit (ALU) in Cadence Virtuoso, implementing basic arithmetic and logical operations. The ALU takes two 4-bit operands and a set of control signals to perform operations such as addition, subtraction, magnitude comparison, ones complement and 3:8 decoder. The design was implemented using 90nm CMOS technology, ensuring optimized performance in terms of speed and power consumption. The design includes 8 8:1 mux for the control of all output. The simulation results validate the expected behaviour, demonstrating the efficiency and accuracy of this ALU for fundamental computing tasks in digital processing applications.
