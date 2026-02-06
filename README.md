@@ -64,7 +64,7 @@ Schematic of the 3:8 decoder
 
 The image above is schematic diagram of a 3-to-8 decoder using logic gates in Cadence Virtuoso. The circuit takes a 3-bit binary input and generates eight unique output lines, where each output corresponds to one of the possible input combinations. The design was implemented using AND and NOT gates, ensuring correct decoding logic while maintaining minimal propagation delay. The schematic was developed using 90nm CMOS technology, optimizing power and area efficiency. A testbench was created to verify the functionality through transient analysis, confirming that each output line is activated exclusively based on the input combination. The simulation results validate the expected operation, making this design suitable for applications in memory address decoding and control logic circuits.
 
-    <img width="554" height="564" alt="image" src="https://github.com/user-attachments/assets/facd8042-8d17-4e0e-9ad9-a2161aa28877" />
+<img width="554" height="564" alt="image" src="https://github.com/user-attachments/assets/facd8042-8d17-4e0e-9ad9-a2161aa28877" />
 
 Schematic of the 8:1 Mux			       
 
